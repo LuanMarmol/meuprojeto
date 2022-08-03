@@ -25,5 +25,6 @@ public class Curso {
 		private Integer chMin;
 		private Integer chMax;
 		private LocalDate dataAprov;
+		
 	
 }
